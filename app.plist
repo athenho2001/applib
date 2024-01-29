@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://appupipastore.000webhostapp.com/applestore/app/app.ipa</string>
+					<string>https://appupipastore.000webhostapp.com/applestore/app/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
